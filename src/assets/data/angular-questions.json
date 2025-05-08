@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Angular Framework Quiz",
+  "questions": [
+    {
+      "question": "Which Angular feature is best suited for managing complex state?",
+      "choices": [
+        "Component state",
+        "Local storage",
+        "Services with BehaviorSubject",
+        "NgRx store"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the purpose of Angular's dependency injection system?",
+      "choices": [
+        "To inject CSS styles",
+        "To handle routing",
+        "To create animations",
+        "To manage component dependencies and services"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which decorator would you use to create a reusable directive in Angular?",
+      "choices": [
+        "@Directive",
+        "@Injectable",
+        "@Pipe",
+        "@Component"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the recommended approach for validating complex forms in Angular?",
+      "choices": [
+        "Using CSS only",
+        "Using template-driven forms",
+        "Using reactive forms with validators",
+        "Using vanilla JavaScript"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of Angular's change detection strategy?",
+      "choices": [
+        "To handle routing changes",
+        "To optimize when and how components update",
+        "To manage HTTP requests",
+        "To detect browser changes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the recommended way to handle HTTP requests in Angular?",
+      "choices": [
+        "Using Angular's HttpClient with interceptors",
+        "Using fetch API directly",
+        "Using XMLHttpRequest",
+        "Using jQuery AJAX"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Angular's Router Guards?",
+      "choices": [
+        "To control access to routes based on conditions",
+        "To protect against SQL injection",
+        "To prevent XSS attacks",
+        "To handle form validation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which feature would you use to share data between unrelated components in Angular?",
+      "choices": [
+        "Services with observables",
+        "Props and events",
+        "URL parameters",
+        "Local storage only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the best way to handle global errors in Angular?",
+      "choices": [
+        "Using alert()",
+        "Using try-catch blocks everywhere",
+        "Using Angular's ErrorHandler and global error handling",
+        "Using console.error only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of Angular's AOT (Ahead-of-Time) compilation?",
+      "choices": [
+        "To handle animations",
+        "To manage state",
+        "To make the app more beautiful",
+        "To improve runtime performance and security"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

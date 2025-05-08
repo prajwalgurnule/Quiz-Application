@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Web Development Quiz",
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "choices": [
+        "Hyper Text Markup Language",
+        "High Tech Modern Language",
+        "Hyper Transfer Markup Language",
+        "Hybrid Text Making Language"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which CSS property is used to make text bold?",
+      "choices": [
+        "text-weight",
+        "font-weight",
+        "text-style",
+        "font-bold"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the correct HTML element for the largest heading?",
+      "choices": [
+        "<heading>",
+        "<h6>",
+        "<head>",
+        "<h1>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which HTTP status code indicates a successful response?",
+      "choices": [
+        "404",
+        "500",
+        "200",
+        "301"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does CSS stand for?",
+      "choices": [
+        "Creative Style Sheets",
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which HTML attribute is used to define inline styles?",
+      "choices": [
+        "styles",
+        "style",
+        "css",
+        "class"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the correct way to comment in HTML?",
+      "choices": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "<!-- This is a comment -->",
+        "# This is a comment"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which property is used to change the background color in CSS?",
+      "choices": [
+        "color",
+        "bgcolor",
+        "background-color",
+        "linear-gradient"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of the HTML meta tag?",
+      "choices": [
+        "To display text",
+        "To create links",
+        "To provide metadata about the document",
+        "To format text"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which CSS position property value removes an element from the normal document flow?",
+      "choices": [
+        "relative",
+        "static",
+        "fixed",
+        "absolute"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+} 

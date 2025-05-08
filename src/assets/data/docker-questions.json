@@ -1,0 +1,105 @@
+{
+    "quizTitle": "Docker Quiz",
+    "questions": [
+        {
+            "question": "What is Docker primarily used for?",
+            "choices": [
+                "Creating virtual machines",
+                "Automating database backups",
+                "Packaging applications into containers",
+                "Building mobile apps"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which command is used to build a Docker image?",
+            "choices": [
+                "docker init",
+                "docker create",
+                "docker build",
+                "docker image run"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the default name of the Dockerfile used to build images?",
+            "choices": [
+                "docker-compose.yml",
+                "Dockerfile",
+                "dockerfile.txt",
+                "image.config"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which command lists all running Docker containers?",
+            "choices": [
+                "docker list",
+                "docker ps",
+                "docker run",
+                "docker Home"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does the 'docker pull' command do?",
+            "choices": [
+                "Pushes a container to a repository",
+                "Homes a new container",
+                "Downloads an image from a registry",
+                "Removes an image from local storage"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the role of Docker Compose?",
+            "choices": [
+                "To create images from containers",
+                "To manage container networking only",
+                "To define and run multi-container applications",
+                "To monitor container logs"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is used to define services in Docker Compose?",
+            "choices": [
+                "docker-compose.config",
+                "docker-compose.yaml",
+                "Dockerfile",
+                "compose.service"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is a Docker volume used for?",
+            "choices": [
+                "To increase container performance",
+                "To store persistent data",
+                "To expose ports to the host",
+                "To build faster images"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which flag is used to run a container in the background?",
+            "choices": [
+                "-p",
+                "-v",
+                "-it",
+                "-d"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "How do you remove all stopped containers?",
+            "choices": [
+                "docker rm $(docker ps -a -q)",
+                "docker stop $(docker ps -q)",
+                "docker prune containers",
+                "docker container clean"
+            ],
+            "correctAnswer": 0
+        }
+    ]
+}

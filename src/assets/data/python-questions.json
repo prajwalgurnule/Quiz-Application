@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Python Quiz",
+  "questions": [
+    {
+      "question": "What is the correct way to create a list in Python?",
+      "choices": [
+        "list = []",
+        "list = {}",
+        "list = ()",
+        "list = <>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which of these is not a Python data type?",
+      "choices": [
+        "int",
+        "float",
+        "char",
+        "str"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the output of type(1/2) in Python 3?",
+      "choices": [
+        "int",
+        "float",
+        "double",
+        "decimal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How do you create a function in Python?",
+      "choices": [
+        "function myFunction():",
+        "def myFunction():",
+        "create myFunction():",
+        "func myFunction():"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the correct way to open a file in Python?",
+      "choices": [
+        "open('file.txt')",
+        "file('file.txt')",
+        "read('file.txt')",
+        "load('file.txt')"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which method is used to add an item to a list?",
+      "choices": [
+        "add()",
+        "append()",
+        "insert()",
+        "extend()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the output of 3 * '7'?",
+      "choices": [
+        "21",
+        "777",
+        "37",
+        "Error"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of these is not a valid Python operator?",
+      "choices": [
+        "**",
+        "//",
+        "%%",
+        "%"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of '__init__' method in Python?",
+      "choices": [
+        "To initialize class attributes",
+        "To create a new class",
+        "To delete an object",
+        "To import modules"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How do you create a dictionary in Python?",
+      "choices": [
+        "dict = []",
+        "dict = ()",
+        "dict = {}",
+        "dict = <>"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+} 

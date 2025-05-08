@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Next.js Framework Quiz",
+  "questions": [
+    {
+      "question": "Which Next.js feature is best suited for product pages in an e-commerce site?",
+      "choices": [
+        "Client-Side Rendering (CSR)",
+        "Static Site Generation (SSG)",
+        "Incremental Static Regeneration (ISR)",
+        "Server-Side Rendering (SSR)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of Next.js API routes?",
+      "choices": [
+        "To handle server-side logic and create backend endpoints",
+        "To create beautiful UI components",
+        "To manage client-side state",
+        "To handle routing only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which file naming convention in Next.js enables dynamic routing?",
+      "choices": [
+        "route.js",
+        "[id].js",
+        "page.js",
+        "dynamic.js"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What's the best way to handle SEO in a blog application using Next.js?",
+      "choices": [
+        "Using Next.js built-in Head component and getStaticProps",
+        "Using external SEO plugins",
+        "Using CSS only",
+        "Using client-side meta tags"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Next.js Image component?",
+      "choices": [
+        "To create beautiful image galleries",
+        "To add filters to images",
+        "To create image animations",
+        "To optimize images automatically and improve performance"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "How should authentication be handled in a Next.js application?",
+      "choices": [
+        "Using localStorage only",
+        "Using URL parameters",
+        "Using client-side only authentication",
+        "Using NextAuth.js with server-side authentication"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the purpose of Next.js middleware?",
+      "choices": [
+        "To manage state",
+        "To handle animations",
+        "To run code before requests are completed",
+        "To style components"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which feature would you use to share layouts between pages in Next.js?",
+      "choices": [
+        "Using the App Router and layout.js",
+        "Using URL parameters",
+        "Using CSS only",
+        "Using JavaScript modules"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the recommended way to handle data fetching in Next.js?",
+      "choices": [
+        "Using localStorage",
+        "Using URL parameters",
+        "Using getServerSideProps or getStaticProps",
+        "Using useEffect only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of Next.js App Router?",
+      "choices": [
+        "To manage state",
+        "To handle animations",
+        "To provide a new file-system based router with improved features",
+        "To create beautiful UI components"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

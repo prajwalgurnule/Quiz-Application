@@ -1,0 +1,105 @@
+{
+    "quizTitle": "React Fundamentals",
+    "questions": [
+        {
+            "question": "What is the purpose of React hooks?",
+            "choices": [
+                "To manage state and side effects in functional components",
+                "To style components",
+                "To fetch data from APIs",
+                "To handle routing"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is a React hook?",
+            "choices": [
+                "useState",
+                "useEffect",
+                "useContext",
+                "All of the above"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What is the virtual DOM in React?",
+            "choices": [
+                "A browser extension",
+                "A lightweight copy of the actual DOM",
+                "A database system",
+                "A testing framework"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is JSX in React?",
+            "choices": [
+                "A JavaScript framework",
+                "A syntax extension for JavaScript",
+                "A build tool",
+                "A state management library"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which method is used to update state in a class component?",
+            "choices": [
+                "setState",
+                "updateState",
+                "changeState",
+                "modifyState"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the purpose of React Router?",
+            "choices": [
+                "To style components",
+                "To manage state",
+                "To handle navigation",
+                "To fetch data"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is a controlled component?",
+            "choices": [
+                "A component with its own state",
+                "A component whose value is controlled by React state",
+                "A component with no state",
+                "A component with only props"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the purpose of React Context?",
+            "choices": [
+                "To style components",
+                "To share state between components without prop drilling",
+                "To handle routing",
+                "To manage side effects"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which lifecycle method is called after a component is mounted?",
+            "choices": [
+                "componentWillMount",
+                "componentDidMount",
+                "componentWillUnmount",
+                "componentDidUpdate"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the purpose of React.memo?",
+            "choices": [
+                "To create memoized components",
+                "To prevent unnecessary re-renders",
+                "To handle memory management",
+                "To create memoized values"
+            ],
+            "correctAnswer": 1
+        }
+    ]
+}

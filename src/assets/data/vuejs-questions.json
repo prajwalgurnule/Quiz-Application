@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Vue.js Framework Quiz",
+  "questions": [
+    {
+      "question": "Which Vue.js feature is best for managing the shopping cart state in an e-commerce application?",
+      "choices": [
+        "Vuex/Pinia store",
+        "Props and events",
+        "Local storage only",
+        "Local component state"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Vue's Composition API?",
+      "choices": [
+        "To better organize and reuse logic across components",
+        "To handle routing",
+        "To improve performance",
+        "To create more beautiful UI components"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which lifecycle hook would you use to fetch data when a component mounts?",
+      "choices": [
+        "mounted()",
+        "beforeMount()",
+        "created()",
+        "beforeCreate()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What's the best way to validate form inputs in Vue 3?",
+      "choices": [
+        "Using a form validation library like VeeValidate",
+        "Using v-model only",
+        "Using CSS only",
+        "Writing custom validation in methods"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the difference between v-if and v-show directives?",
+      "choices": [
+        "v-if removes elements from DOM, v-show just hides them",
+        "There is no difference",
+        "v-show is more memory efficient",
+        "v-if is faster than v-show"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Vue's Teleport component?",
+      "choices": [
+        "To manage state",
+        "To render content in a different part of the DOM",
+        "To handle animations",
+        "To handle routing"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How would you best handle HTTP requests in Vue?",
+      "choices": [
+        "Using Axios or Vue's built-in HTTP client",
+        "Using jQuery AJAX",
+        "Using XMLHttpRequest",
+        "Using fetch API directly"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which feature would you use to create a custom directive in Vue?",
+      "choices": [
+        "Using Vue.directive",
+        "Using v-model",
+        "Using v-bind",
+        "Using v-on"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Vue's Suspense component?",
+      "choices": [
+        "To manage state",
+        "To handle async components and loading states",
+        "To handle routing",
+        "To handle animations"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What’s the best way to handle authentication in Vue?",
+      "choices": [
+        "Using Vue Router navigation guards with auth store",
+        "Using localStorage only",
+        "Using client-side only authentication",
+        "Using URL parameters"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

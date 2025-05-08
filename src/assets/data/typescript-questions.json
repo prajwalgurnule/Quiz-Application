@@ -1,0 +1,105 @@
+{
+  "quizTitle": "TypeScript Quiz",
+  "questions": [
+    {
+      "question": "What is the main purpose of TypeScript?",
+      "choices": [
+        "To replace JavaScript completely",
+        "To add static typing to JavaScript",
+        "To improve JavaScript performance",
+        "To create server-side applications"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is the correct way to declare a union type in TypeScript?",
+      "choices": [
+        "let value: string | number",
+        "let value = string | number",
+        "let value: (string, number)",
+        "let value: [string | number]"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What does the 'readonly' modifier do in TypeScript?",
+      "choices": [
+        "Prevents a property from being modified after initialization",
+        "Marks a variable as a constant",
+        "Allows only numbers to be assigned",
+        "Enables runtime type checking"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How can you define a tuple type in TypeScript?",
+      "choices": [
+        "let person: [string, number]",
+        "let person = (string, number)",
+        "let person: string | number",
+        "let person = [string number]"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What does the 'typeof' operator do in TypeScript?",
+      "choices": [
+        "Checks if a variable is null or undefined",
+        "Returns the type of a variable or expression",
+        "Creates a new type alias",
+        "Casts a variable to another type"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is a Union Type in TypeScript?",
+      "choices": [
+        "A type that must include all specified types",
+        "A type that can be one of several types",
+        "A type that only works with numbers",
+        "A type that combines two objects"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How do you specify that a function parameter is optional in TypeScript?",
+      "choices": [
+        "By adding '?' after the parameter name",
+        "By adding '*' after the parameter name",
+        "By adding '!' after the parameter name",
+        "By adding '_' after the parameter name"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the 'never' type in TypeScript?",
+      "choices": [
+        "A type that can hold any value",
+        "A type that can hold only null",
+        "A type that represents values that never occur",
+        "A type that can only hold undefined"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is a correct way to define an enum in TypeScript?",
+      "choices": [
+        "enum Color { Red, Green, Blue }",
+        "enum Color = { Red, Green, Blue }",
+        "type Color = [ Red, Green, Blue ]",
+        "interface Color { Red, Green, Blue }"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of the 'as' keyword in TypeScript?",
+      "choices": [
+        "To create a new type",
+        "To perform type assertion",
+        "To extend a class",
+        "To import modules"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

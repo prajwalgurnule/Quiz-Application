@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Svelte Framework Quiz",
+  "questions": [
+    {
+      "question": "What makes Svelte different from traditional frameworks like React or Vue?",
+      "choices": [
+        "It compiles your code at build time",
+        "It uses a virtual DOM",
+        "It requires a runtime library",
+        "It uses JSX syntax"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How would you best handle state management in a todo application built with Svelte?",
+      "choices": [
+        "Using Svelte's built-in stores",
+        "Using local component state only",
+        "Using context API",
+        "Using a global store like Redux"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of the $: syntax in Svelte?",
+      "choices": [
+        "To define components",
+        "To create event handlers",
+        "To create reactive statements",
+        "To import modules"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which feature would you use to create a reusable animation in Svelte?",
+      "choices": [
+        "JavaScript setTimeout",
+        "CSS animations only",
+        "Svelte's transition and animation directives",
+        "External animation libraries only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What’s the best way to handle form submissions in Svelte?",
+      "choices": [
+        "Using Svelte's form actions and bind:value",
+        "Using HTML form only",
+        "Using vanilla JavaScript",
+        "Using external form libraries"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Svelte's context API?",
+      "choices": [
+        "To handle animations",
+        "To share data between components without prop drilling",
+        "To handle routing",
+        "To manage state globally"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How should HTTP requests be handled in a Svelte application?",
+      "choices": [
+        "Using fetch API directly",
+        "Using XMLHttpRequest",
+        "Using jQuery AJAX",
+        "Using Svelte's built-in fetch wrapper with stores"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which feature would you use to create a custom event in Svelte?",
+      "choices": [
+        "Using dispatch with custom events",
+        "Using createEvent",
+        "Using window.addEventListener",
+        "Using document.createEvent"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Svelte's lifecycle functions?",
+      "choices": [
+        "To handle routing",
+        "To manage component lifecycle events",
+        "To manage state",
+        "To handle animations"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What’s the best way to handle authentication in a Svelte application?",
+      "choices": [
+        "Using client-side only authentication",
+        "Using localStorage only",
+        "Using SvelteKit's authentication features",
+        "Using URL parameters"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

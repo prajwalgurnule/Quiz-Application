@@ -1,0 +1,105 @@
+{
+    "quizTitle": "Tailwind CSS",
+    "questions": [
+        {
+            "question": "What is the primary purpose of Tailwind CSS?",
+            "choices": [
+                "To provide pre-built components",
+                "To offer utility-first CSS framework",
+                "To handle state management",
+                "To manage routing"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following is a valid Tailwind CSS class for flexbox?",
+            "choices": [
+                "flex-row",
+                "flex-col",
+                "flex-wrap",
+                "All of the above"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What does the 'md:' prefix in Tailwind CSS classes mean?",
+            "choices": [
+                "Medium devices",
+                "Medium density",
+                "Medium priority",
+                "Medium opacity"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which Tailwind CSS class is used for adding margin to all sides?",
+            "choices": [
+                "m-auto",
+                "m-0",
+                "m-4",
+                "All of the above"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What is the purpose of @apply directive in Tailwind CSS?",
+            "choices": [
+                "To apply JavaScript functions",
+                "To extract repeated utility patterns",
+                "To apply animations",
+                "To apply media queries"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which Tailwind CSS class is used for responsive design?",
+            "choices": [
+                "container",
+                "responsive",
+                "viewport",
+                "screen"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the default color palette in Tailwind CSS based on?",
+            "choices": [
+                "Material Design",
+                "Bootstrap",
+                "CSS Variables",
+                "Design System"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is a valid way to customize Tailwind CSS?",
+            "choices": [
+                "tailwind.config.js",
+                "postcss.config.js",
+                "package.json",
+                "All of the above"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What is the purpose of the 'group' class in Tailwind CSS?",
+            "choices": [
+                "To group elements together",
+                "To create hover effects on parent elements",
+                "To manage state",
+                "To handle animations"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which Tailwind CSS class is used for adding a border radius?",
+            "choices": [
+                "rounded",
+                "border-radius",
+                "radius",
+                "curve"
+            ],
+            "correctAnswer": 0
+        }
+    ]
+} 

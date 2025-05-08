@@ -1,0 +1,205 @@
+{
+    "quizTitle": "Computer Science Fundamentals",
+    "questions": [
+        {
+            "question": "Which data structure is best suited for implementing a priority queue?",
+            "choices": [
+                "Binary Heap",
+                "Linked List",
+                "Array",
+                "Stack"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the time complexity of binary search algorithm?",
+            "choices": [
+                "O(n)",
+                "O(log n)",
+                "O(n²)",
+                "O(1)"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following is not a type of computer network topology?",
+            "choices": [
+                "Star",
+                "Ring",
+                "Cube",
+                "Mesh"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the main purpose of an operating system?",
+            "choices": [
+                "To run applications",
+                "To manage hardware and software resources",
+                "To browse the internet",
+                "To store data"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which programming paradigm is based on the concept of objects containing data and code?",
+            "choices": [
+                "Functional Programming",
+                "Object-Oriented Programming",
+                "Procedural Programming",
+                "Logic Programming"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the smallest unit of data in a computer?",
+            "choices": [
+                "Byte",
+                "Bit",
+                "Nibble",
+                "Word"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following is a type of computer memory that is volatile?",
+            "choices": [
+                "ROM",
+                "RAM",
+                "Hard Disk",
+                "Flash Drive"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does CPU stand for?",
+            "choices": [
+                "Central Processing Unit",
+                "Computer Personal Unit",
+                "Central Program Utility",
+                "Computer Processing Unit"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is not a type of computer virus?",
+            "choices": [
+                "Trojan Horse",
+                "Worm",
+                "Firewall",
+                "Spyware"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the purpose of a compiler in programming?",
+            "choices": [
+                "To debug code",
+                "To translate high-level code to machine code",
+                "To write code",
+                "To test code"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which sorting algorithm is generally considered the fastest for large datasets?",
+            "choices": [
+                "Bubble Sort",
+                "Selection Sort",
+                "Quick Sort",
+                "Insertion Sort"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which logic gate returns true only if both inputs are true?",
+            "choices": [
+                "OR",
+                "NAND",
+                "AND",
+                "XOR"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the main function of the ALU (Arithmetic Logic Unit)?",
+            "choices": [
+                "Store data",
+                "Perform arithmetic and logic operations",
+                "Manage memory",
+                "Display output"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the key feature of a stack data structure?",
+            "choices": [
+                "First-In First-Out",
+                "Last-In First-Out",
+                "Random Access",
+                "Circular Access"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which protocol is used to transfer files over the internet?",
+            "choices": [
+                "HTTP",
+                "FTP",
+                "TCP",
+                "IP"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which type of algorithm is used for shortest path problems?",
+            "choices": [
+                "Dijkstra's Algorithm",
+                "Merge Sort",
+                "Prim's Algorithm",
+                "Kruskal's Algorithm"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is a non-volatile memory type?",
+            "choices": [
+                "Cache",
+                "RAM",
+                "ROM",
+                "Registers"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is *not* a high-level programming language?",
+            "choices": [
+                "Python",
+                "Java",
+                "C++",
+                "Assembly"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What does the acronym 'URL' stand for?",
+            "choices": [
+                "Uniform Reference Locator",
+                "Universal Record Link",
+                "Uniform Resource Locator",
+                "Unique Route Locator"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which part of the computer is responsible for executing instructions?",
+            "choices": [
+                "Hard Disk",
+                "CPU",
+                "RAM",
+                "Motherboard"
+            ],
+            "correctAnswer": 1
+        }
+    ]
+}

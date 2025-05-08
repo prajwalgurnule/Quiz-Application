@@ -1,0 +1,105 @@
+{
+  "quizTitle": "JavaScript Quiz",
+  "questions": [
+    {
+      "question": "Which operator is used for strict equality comparison?",
+      "choices": [
+        "==",
+        "===",
+        "=",
+        "!="
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the correct way to declare a variable in modern JavaScript?",
+      "choices": [
+        "int x = 5;",
+        "let x = 5;",
+        "const x = 5;",
+        "Both b and c"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which method is used to add elements to the end of an array?",
+      "choices": [
+        "unshift()",
+        "push()",
+        "append()",
+        "pop()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the output of typeof null?",
+      "choices": [
+        "null",
+        "undefined",
+        "object",
+        "number"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How do you create a function in JavaScript?",
+      "choices": [
+        "function = myFunction()",
+        "function myFunction()",
+        "function:myFunction()",
+        "create myFunction()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the correct way to define a JavaScript array?",
+      "choices": [
+        "var colors = (1:'red', 2:'green')",
+        "var colors = 'red', 'green'",
+        "var colors = ['red', 'green']",
+        "var colors = {red, green}"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which event occurs when a user clicks on an HTML element?",
+      "choices": [
+        "onmouseclick",
+        "onclick",
+        "onchange",
+        "onmouseover"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How do you declare a JavaScript object?",
+      "choices": [
+        "var person = Object()",
+        "var person = {};",
+        "var person = ['obj']",
+        "const human = (obj)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in JavaScript?",
+      "choices": [
+        "It refers to the previous object",
+        "It refers to the current object",
+        "It refers to the next object",
+        "It refers to any object"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which method converts JSON to a JavaScript object?",
+      "choices": [
+        "JSON.parse()",
+        "JSON.stringify()",
+        "JSON.convert()",
+        "JSON.toObject()"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+} 

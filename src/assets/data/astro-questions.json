@@ -1,0 +1,105 @@
+{
+  "quizTitle": "Astro Framework Quiz",
+  "questions": [
+    {
+      "question": "What is the primary purpose of Astro's Islands Architecture?",
+      "choices": [
+        "To implement a new navigation system",
+        "To create interactive islands in a sea of static content",
+        "To optimize performance by loading JavaScript only where needed",
+        "To create floating UI elements on the page"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of these is NOT a built-in feature of Astro?",
+      "choices": [
+        "Zero JavaScript by default",
+        "Built-in TypeScript support",
+        "Built-in state management",
+        "Component Islands"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What file extension is used for Astro components?",
+      "choices": [
+        ".tsx",
+        ".astro",
+        ".jsx",
+        ".vue"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which approach is best for handling a blog with hundreds of posts in Astro?",
+      "choices": [
+        "Using a headless CMS without Astro's content collections",
+        "Using dynamic routes with content collections",
+        "Storing all posts in a single JSON file",
+        "Creating individual .astro files for each post"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the purpose of the frontmatter section in Astro components?",
+      "choices": [
+        "To define the component's layout",
+        "To specify the component's dependencies",
+        "To define the component's styling",
+        "To write JavaScript/TypeScript code that runs at build time"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "How would you best handle dynamic product data in Astro?",
+      "choices": [
+        "Using Astro's data fetching with SSR or SSG",
+        "Using client-side JavaScript only",
+        "Using localStorage",
+        "Using URL parameters"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of Astro's View Transitions API?",
+      "choices": [
+        "To create smooth transitions between pages",
+        "To manage state transitions",
+        "To handle form submissions",
+        "To handle page navigation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which feature would you use to optimize images in Astro?",
+      "choices": [
+        "Using JavaScript image manipulation",
+        "Using external image optimization services",
+        "Using CSS only",
+        "Using Astro's built-in Image component"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What's the best way to handle authentication in Astro?",
+      "choices": [
+        "Using client-side only authentication",
+        "Using localStorage only",
+        "Using Astro's middleware and server-side authentication",
+        "Using URL parameters"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the purpose of Astro's content collections?",
+      "choices": [
+        "To organize CSS files",
+        "To handle routing",
+        "To manage and validate content with type safety",
+        "To manage state"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}
